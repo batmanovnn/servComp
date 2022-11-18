@@ -5,3 +5,5 @@
 Реализация: Python (Flask)
 
 СУБД: SQLite
+
+![Структура БД](/static/image/EER_db.png)
